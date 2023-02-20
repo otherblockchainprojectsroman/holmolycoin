@@ -1,0 +1,4 @@
+#start redis server: sudo systemctl status redis-server
+
+ps aux | grep redis
+kill -9 24745
